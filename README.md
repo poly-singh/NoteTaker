@@ -45,7 +45,7 @@ https://github.com/poly-singh/NoteTaker
 
 ## Application snapshots
 ![Notetaker_snapshot1](./public/assets/Images/Notetaker_snapshot1.png)
-![Notetaker_snapshot1](./public/assets/Images/Notetaker_snapshot2.png)
+![Notetaker_snapshot1](./public/assets/Images/Notetaker_Snapshot2.png)
 
 
 
